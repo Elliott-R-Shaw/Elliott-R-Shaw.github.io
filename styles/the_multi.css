@@ -1,0 +1,34 @@
+body {
+
+  margin: 10vh;
+  font-family:Hack,Sans,Helvetica;
+  color: #ffffff;
+  background: #000000;
+}
+
+h3 {
+  color: cyan;
+}
+
+h4 {
+  color: magenta;
+}
+
+ul {
+  color: #b2bc2c;
+}
+
+blockquote {
+  color: #c03f7f;
+}
+
+p {
+  color: grey;
+}
+
+@media(max-width:650px){
+  body {
+    margin:5vh;
+  }
+} 
+
